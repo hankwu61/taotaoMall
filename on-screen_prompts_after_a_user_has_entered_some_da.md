@@ -1,0 +1,4 @@
+## **_On-Screen prompts: After a user has entered some data it is redisplayed on the screen. The user is prompted to read the data and confirm that it has been entered correctly. If the user has entered any data incorrectly he should response that the data is inaccurate and retypes the incorrect parts._** {#on-screen-prompts-after-a-user-has-entered-some-data-it-is-redisplayed-on-the-screen-the-user-is-prompted-to-read-the-data-and-confirm-that-it-has-been-entered-correctly-if-the-user-has-entered-any-data-incorrectly-he-should-response-that-the-data-is-inaccurate-and-retypes-the-incorrect-parts}
+
+*   Dual Inputs: This method is used when data is entered through the keyboard. The data to be entered is typed in twice by two different operations. The two copies of data are been compared, any difference are detected, the operators will be prompted to retype the sections that differ until both copies agree.
+*   VALIDATION:

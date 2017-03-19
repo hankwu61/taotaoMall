@@ -1,0 +1,7 @@
+## **_ASP.NET:_** {#asp-net}
+
+ASP.NET is a technology that allows us to build and control dynamic Web pages easily. It also provides many enhancements to take advantage of new technology as we can interact with databases, personalize Web pages for visitors, display page on mobile devices (such as cell phones), and even build an entire e-commerce site from scratch.
+
+Previously internet works on _request/response_ model that is an integral part of _client/server_ model. Although this is a marvelous way of communicate and distribute information, it&#039;s rather simple and static. When the process is over, once client receives the requesting page from the server the server has no idea what the client is doing unless it makes another request.
+
+There is another model for communicating between server and clients, known as _event-driven_ model.ASP.NET work on this model, it detects action and responds to them i.e. the server waits around for something to happen on the client. Once it does, the server takes action and performs some piece of functionality. Of course, a Web, server can not know what you are thinking, but it can respond to your actions. If you type some text on Web page, the server responds to it. If you click an image, the server responds.

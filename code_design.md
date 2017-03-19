@@ -1,0 +1,3 @@
+## **_CODE DESIGN_** {#code-design}
+
+When large volumes of data are being handled, it is important that the item be identified, stored or selected easily and quickly. To accomplish this, each data item must have unique identification and must be related to other items of the same type. Codes can provide brief identification of each item, which replace longer description that would be more awkward to store and manipulate.

@@ -1,0 +1,3 @@
+## **_DATABASE DESIGN:_** {#database-design}
+
+The overall objective in the development of the database technology has been to treat data as an organizational resource and as an integrated whole. Database management system allows data to be protected and organize separately from other resources. Database is an integrated collection of data. The most significant of data as seen by the programs and data as stored on the direct storage access storage devices. This is the difference between logical and physical data. The organization of data in the database aims to achieve free major objectives:

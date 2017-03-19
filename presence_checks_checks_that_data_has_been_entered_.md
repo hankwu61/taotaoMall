@@ -1,0 +1,3 @@
+## **_Presence Checks: checks that data has been entered into the field and that it has not been left blank, e.g. checks that Project ID is always entered into each record in a database of project details._** {#presence-checks-checks-that-data-has-been-entered-into-the-field-and-that-it-has-not-been-left-blank-e-g-checks-that-project-id-is-always-entered-into-each-record-in-a-database-of-project-details}
+
+*   Type Checks: checks that an entered value is of particular type. E.g. checks that a field is varchar, a number, etc.

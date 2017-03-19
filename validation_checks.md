@@ -1,0 +1,3 @@
+## **_VALIDATION CHECKS:_** {#validation-checks}
+
+A common problem with computer system is that it is very easy to put incorrect data into them. So the input data is validated to minimize errors and data entry. For certain data specific code has been given and validations are done which enable the user to enter the required data and correct them if they have entered wrong codes, e.g. you could mistype a link name or a URL in a database resulting in reports being occurred in the wrong link name. if you put incorrect data into the computer system then you will get incorrect results out of it. Processing incorrect inputs will produce incorrect outputs. This lead to the acronym: GIGO (Garbage In Garbage Out).

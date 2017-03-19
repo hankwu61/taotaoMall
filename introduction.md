@@ -1,0 +1,3 @@
+## **_INTRODUCTION:_** {#introduction}
+
+The purpose of system testing is to identify and correct errors in the candidate system. Testing is and important element of software quality assurance ad represents the ultimate review of specification, design and coding. The increasing visibility of the software as a system element and the cost associated with a software failure are motivated forces for well planned, through testing.
